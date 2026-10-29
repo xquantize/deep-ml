@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**26** solved · 25 problems · 1 labs · 0 math
+**27** solved · 26 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-10-08 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-10-11 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-10-13 | [solution](problems/0070-calculate-image-brightness) |
+| [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-10-29 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-10-11 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-10-13 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-11 | [solution](problems/0016-feature-scaling-implementation) |
